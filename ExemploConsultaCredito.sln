@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploConsultaCredito", "ExemploConsultaCredito\ExemploConsultaCredito.csproj", "{04965946-7BEE-4E71-9033-92731F7DDA3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploConsultaCredito.Testes", "ExemploConsultaCredito.Testes\ExemploConsultaCredito.Testes.csproj", "{54D6BF11-9563-46AA-9607-DD5386D93F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04965946-7BEE-4E71-9033-92731F7DDA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04965946-7BEE-4E71-9033-92731F7DDA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04965946-7BEE-4E71-9033-92731F7DDA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04965946-7BEE-4E71-9033-92731F7DDA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D6BF11-9563-46AA-9607-DD5386D93F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D6BF11-9563-46AA-9607-DD5386D93F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D6BF11-9563-46AA-9607-DD5386D93F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D6BF11-9563-46AA-9607-DD5386D93F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
